@@ -20,5 +20,12 @@ Uma página simples e responsiva para apresentar um pouco sobre mim, com opção
 Em desenvolvimento. Novas melhorias visuais e funcionalidades podem ser adicionadas em breve!
 
 ## 📷 Preview
+<div class="imagem-exemplo">
+<img  src="./assets/exemplo-projeto.png"/>
+</div>
 
-<img src="./assets/exemplo-projeto.png"/>
+<style>
+    .imagem-exemplo {
+        width: 100px;
+    }
+</style>
