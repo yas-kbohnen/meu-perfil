@@ -14,7 +14,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Readme</title>
-    <link rel="stylesheet" href="style.css" />
+    <!-- <link rel="stylesheet" href="style.css" /> -->
   </head>
   <body>
     <div class="cabecalho">
@@ -62,65 +62,61 @@
       <img class="img-preview" src="./assets/exemplo-projeto.png" />
     </div>
     <style>
-        * {
-  background-color: #e8d7cf;
-  font-family: var(--font-family);
-}
-:root {
-  --text-color-title: #a56e52;
-  --text-color: #5c3927;
-  --bg-url: url(./assets/cabecalho-projeto.png);
-  --font-family: "Belleza", sans-serif;
-  --switch-bg-url: url(./assets/MoonStars.svg);
-  --highlight-color: rgba(255, 255, 255, 0.2);
-  /*--stroke-color: rgba(255, 255, 255, 0.5);*/
-  --surface-color: rgba(255, 255, 255, 0.1);
-  --surface-color-hover: rgba(255, 255, 255, 0.05);
-  align-items: center;
-  justify-content: center;
-  display: flex;
-}
-ul {
-  margin: 0;
-}
-.cabecalho {
-  background: var(--bg-url) no-repeat;
-  border-radius: 10px;
-}
-img {
-  border-radius: 10px;
-}
-.titulo {
-  font-weight: 500;
-  color: var(--text-color-title);
-  font-size: 20px;
-  padding-top: 20px;
-  letter-spacing: 2px;
-}
-.texto {
-  color: var(--text-color);
-  padding-top: 5px;
-}
-.texto-cabecalho {
-  color: var(--text-color);
-  padding-top: 5px;
-  text-align: center;
-  max-width: 600px;
-}
-.img-preview {
-  min-width: 150px;
-}
-.badge {
-  display: inline-block;
-  background-color: #f5eee9;
-  color: var(--text-color);
-  padding: 4px 8px;
-  border-radius: 12px;
-  margin: 4px 4px 0 0;
-}
-.badge:hover {
-  background-color: #e4d1c4;
-}
+      * {
+        background-color: #e8d7cf;
+        font-family: var(--font-family);
+      }
+      :root {
+        --text-color-title: #a56e52;
+        --text-color: #5c3927;
+        --bg-url: url(./assets/cabecalho-projeto.png);
+        --font-family: "Belleza", sans-serif;
+        --switch-bg-url: url(./assets/MoonStars.svg);
+        --highlight-color: rgba(255, 255, 255, 0.2);
+        /*--stroke-color: rgba(255, 255, 255, 0.5);*/
+        --surface-color: rgba(255, 255, 255, 0.1);
+        --surface-color-hover: rgba(255, 255, 255, 0.05);
+        align-items: center;
+        justify-content: center;
+        display: flex;
+      }
+      ul {
+        margin: 0;
+      }
+      img {
+        border-radius: 10px;
+      }
+      .titulo {
+        font-weight: 500;
+        color: var(--text-color-title);
+        font-size: 20px;
+        padding-top: 20px;
+        letter-spacing: 1px;
+      }
+      .texto {
+        color: var(--text-color);
+        padding-top: 5px;
+      }
+      .texto-cabecalho {
+        color: var(--text-color);
+        padding-top: 5px;
+        text-align: center;
+        max-width: 600px;
+      }
+      .img-preview {
+        min-width: 150px;
+      }
+      .badge {
+        display: inline-block;
+        background-color: #f5eee9;
+        color: var(--text-color);
+        padding: 4px 8px;
+        border-radius: 12px;
+        margin: 4px 4px 0 0;
+      }
+      .badge:hover {
+        background-color: #e4d1c4;
+      }
     </style>
   </body>
 </html>
