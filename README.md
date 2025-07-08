@@ -16,3 +16,6 @@ Em desenvolvimento. Novas melhoriasvisuais e funcionalidades podem ser adicionad
 
 ### PREVIEW
 <img src="./assets/exemplo-projeto.png" /> 
+
+### VIZUALIZAÇÃO ONLINE
+Meu Perfil | https://yas-kbohnen.github.io/meu-perfil/
