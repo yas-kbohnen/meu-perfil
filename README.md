@@ -12,7 +12,7 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&color=555555)
 
 ### STATUS DO PROJETO
-Em desenvolvimento. Novas melhoriasvisuais e funcionalidades podem ser adicionadas em breve.
+Em desenvolvimento. Novas melhorias visuais e funcionalidades podem ser adicionadas em breve.
 
 ### PREVIEW
 <img src="./assets/exemplo-projeto.png" /> 
